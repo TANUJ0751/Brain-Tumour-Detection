@@ -42,7 +42,7 @@ model_option = st.pills("Choose a Model",["Tanujs CNN Model", "VGG19", "ResNet50
 
 # Map model to path
 MODEL_PATHS = {
-    "Tanujs CNN Model": "custom_model.h5",
+    "Tanujs CNN Model": "Custom_model.h5",
     "VGG19": "vgg19_model.h5",
     "ResNet50": "resnet_model.h5"
 }
