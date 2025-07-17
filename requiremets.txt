@@ -1,0 +1,6 @@
+tensorflow-io-gcs-filesystem
+streamlit
+tensorflow
+numpy
+pillow
+protobuf
