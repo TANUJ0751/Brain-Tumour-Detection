@@ -2,7 +2,6 @@ import streamlit as st
 import tensorflow as tf
 import numpy as np
 from PIL import Image
-import json
 from tensorflow.keras.applications.vgg19 import preprocess_input as vgg_preprocess
 from tensorflow.keras.applications.resnet50 import preprocess_input as resnet_preprocess
 import gdown
